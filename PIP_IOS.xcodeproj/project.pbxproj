@@ -1,0 +1,470 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		454AFCFE1ED520B80055CEE8 /* carpos_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF01ED520B80055CEE8 /* carpos_0.png */; };
+		454AFCFF1ED520B80055CEE8 /* carpos_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF11ED520B80055CEE8 /* carpos_1.png */; };
+		454AFD001ED520B80055CEE8 /* carpos_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF21ED520B80055CEE8 /* carpos_10.png */; };
+		454AFD011ED520B80055CEE8 /* carpos_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF31ED520B80055CEE8 /* carpos_11.png */; };
+		454AFD031ED520B80055CEE8 /* carpos_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF51ED520B80055CEE8 /* carpos_2.png */; };
+		454AFD041ED520B80055CEE8 /* carpos_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF61ED520B80055CEE8 /* carpos_3.png */; };
+		454AFD051ED520B80055CEE8 /* carpos_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF71ED520B80055CEE8 /* carpos_4.png */; };
+		454AFD061ED520B80055CEE8 /* carpos_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF81ED520B80055CEE8 /* carpos_5.png */; };
+		454AFD071ED520B80055CEE8 /* carpos_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCF91ED520B80055CEE8 /* carpos_6.png */; };
+		454AFD081ED520B80055CEE8 /* carpos_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCFA1ED520B80055CEE8 /* carpos_7.png */; };
+		454AFD091ED520B80055CEE8 /* carpos_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCFB1ED520B80055CEE8 /* carpos_8.png */; };
+		454AFD0A1ED520B80055CEE8 /* carpos_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCFC1ED520B80055CEE8 /* carpos_9.png */; };
+		454AFD0B1ED520B80055CEE8 /* carpos_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCFD1ED520B80055CEE8 /* carpos_empty.png */; };
+		454AFD0D1ED521DE0055CEE8 /* carpos_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFD0C1ED521DE0055CEE8 /* carpos_12.png */; };
+		454AFD111ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 454AFD101ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg */; };
+		456E96511E8EAD0000ACD5FC /* PIPS_IOS_API.c in Sources */ = {isa = PBXBuildFile; fileRef = 456E964F1E8EAD0000ACD5FC /* PIPS_IOS_API.c */; };
+		45AC5DAC1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 45AC5DAB1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */; };
+		45AC5DAE1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 45AC5DAD1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg */; };
+		45CE01721ED504440090A6EE /* CarHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45CE01711ED504440090A6EE /* CarHomeViewController.swift */; };
+		4A9A21611D3214D800C6443F /* DeviceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9A21601D3214D800C6443F /* DeviceTableViewCell.swift */; };
+		4A9B031D1D3524F300FA3D0F /* PulseAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B031C1D3524F300FA3D0F /* PulseAnimationExtension.swift */; };
+		4A9B031F1D35B1D900FA3D0F /* BluetoothColorsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B031E1D35B1D900FA3D0F /* BluetoothColorsExtension.swift */; };
+		4A9B03411D3C746F00FA3D0F /* ScanButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B03401D3C746F00FA3D0F /* ScanButton.swift */; };
+		4AA1DB6E1C5142BB0053CD71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA1DB6D1C5142BB0053CD71 /* AppDelegate.swift */; };
+		4AA1DB731C5142BB0053CD71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1DB711C5142BB0053CD71 /* Main.storyboard */; };
+		4AA1DB751C5142BC0053CD71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1DB741C5142BC0053CD71 /* Assets.xcassets */; };
+		4AA1DB781C5142BC0053CD71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1DB761C5142BC0053CD71 /* LaunchScreen.storyboard */; };
+		4AA1DB801C5143690053CD71 /* PeripheralViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA1DB7F1C5143690053CD71 /* PeripheralViewController.swift */; };
+		4AA1DB821C51441F0053CD71 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AA1DB811C51441F0053CD71 /* CoreBluetooth.framework */; };
+		C4AC64A01EBB78BE00DF0A4D /* wl_alg.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC64981EBB78BE00DF0A4D /* wl_alg.cpp */; };
+		C4AC64A11EBB78BE00DF0A4D /* wl_api.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC649A1EBB78BE00DF0A4D /* wl_api.cpp */; };
+		C4AC64A21EBB78BE00DF0A4D /* wl_config.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC649C1EBB78BE00DF0A4D /* wl_config.cpp */; };
+		C4AC64A31EBB78BE00DF0A4D /* wl_ue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC649E1EBB78BE00DF0A4D /* wl_ue.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		454AFCF01ED520B80055CEE8 /* carpos_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_0.png; sourceTree = "<group>"; };
+		454AFCF11ED520B80055CEE8 /* carpos_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_1.png; sourceTree = "<group>"; };
+		454AFCF21ED520B80055CEE8 /* carpos_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_10.png; sourceTree = "<group>"; };
+		454AFCF31ED520B80055CEE8 /* carpos_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_11.png; sourceTree = "<group>"; };
+		454AFCF51ED520B80055CEE8 /* carpos_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_2.png; sourceTree = "<group>"; };
+		454AFCF61ED520B80055CEE8 /* carpos_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_3.png; sourceTree = "<group>"; };
+		454AFCF71ED520B80055CEE8 /* carpos_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_4.png; sourceTree = "<group>"; };
+		454AFCF81ED520B80055CEE8 /* carpos_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_5.png; sourceTree = "<group>"; };
+		454AFCF91ED520B80055CEE8 /* carpos_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_6.png; sourceTree = "<group>"; };
+		454AFCFA1ED520B80055CEE8 /* carpos_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_7.png; sourceTree = "<group>"; };
+		454AFCFB1ED520B80055CEE8 /* carpos_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_8.png; sourceTree = "<group>"; };
+		454AFCFC1ED520B80055CEE8 /* carpos_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_9.png; sourceTree = "<group>"; };
+		454AFCFD1ED520B80055CEE8 /* carpos_empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_empty.png; sourceTree = "<group>"; };
+		454AFD0C1ED521DE0055CEE8 /* carpos_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_12.png; sourceTree = "<group>"; };
+		454AFD101ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pacific-Coast-Hwy-cover.jpg"; sourceTree = "<group>"; };
+		456E964E1E8EAD0000ACD5FC /* module.map */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = module.map; sourceTree = "<group>"; };
+		456E964F1E8EAD0000ACD5FC /* PIPS_IOS_API.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PIPS_IOS_API.c; sourceTree = "<group>"; };
+		456E96501E8EAD0000ACD5FC /* PIPS_IOS_API.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIPS_IOS_API.h; sourceTree = "<group>"; };
+		45AC5DAB1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg"; path = "../stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg"; sourceTree = "<group>"; };
+		45AC5DAD1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MixC.Shopping.Mall.original.4922.jpg; path = ../MixC.Shopping.Mall.original.4922.jpg; sourceTree = "<group>"; };
+		45CE01711ED504440090A6EE /* CarHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarHomeViewController.swift; sourceTree = "<group>"; };
+		4A9A21601D3214D800C6443F /* DeviceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceTableViewCell.swift; sourceTree = "<group>"; };
+		4A9B031C1D3524F300FA3D0F /* PulseAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PulseAnimationExtension.swift; sourceTree = "<group>"; };
+		4A9B031E1D35B1D900FA3D0F /* BluetoothColorsExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BluetoothColorsExtension.swift; sourceTree = "<group>"; };
+		4A9B03401D3C746F00FA3D0F /* ScanButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScanButton.swift; sourceTree = "<group>"; };
+		4AA1DB6A1C5142BB0053CD71 /* PIP_IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PIP_IOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4AA1DB6D1C5142BB0053CD71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4AA1DB721C5142BB0053CD71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4AA1DB741C5142BC0053CD71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4AA1DB771C5142BC0053CD71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4AA1DB791C5142BC0053CD71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AA1DB7F1C5143690053CD71 /* PeripheralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeripheralViewController.swift; sourceTree = "<group>"; };
+		4AA1DB811C51441F0053CD71 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		909F27ED1F075920008EA4AF /* PIPS_static_lib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PIPS_static_lib.h; path = include/PIPS_static_lib.h; sourceTree = "<group>"; };
+		C4AC64971EBB78BE00DF0A4D /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = "<group>"; };
+		C4AC64981EBB78BE00DF0A4D /* wl_alg.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_alg.cpp; sourceTree = "<group>"; };
+		C4AC64991EBB78BE00DF0A4D /* wl_alg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_alg.h; sourceTree = "<group>"; };
+		C4AC649A1EBB78BE00DF0A4D /* wl_api.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_api.cpp; sourceTree = "<group>"; };
+		C4AC649B1EBB78BE00DF0A4D /* wl_api.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_api.h; sourceTree = "<group>"; };
+		C4AC649C1EBB78BE00DF0A4D /* wl_config.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_config.cpp; sourceTree = "<group>"; };
+		C4AC649D1EBB78BE00DF0A4D /* wl_config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_config.h; sourceTree = "<group>"; };
+		C4AC649E1EBB78BE00DF0A4D /* wl_ue.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_ue.cpp; sourceTree = "<group>"; };
+		C4AC649F1EBB78BE00DF0A4D /* wl_ue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_ue.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4AA1DB671C5142BB0053CD71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4AA1DB821C51441F0053CD71 /* CoreBluetooth.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		454AFCEF1ED520B80055CEE8 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				454AFD101ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg */,
+				454AFD0C1ED521DE0055CEE8 /* carpos_12.png */,
+				454AFCF01ED520B80055CEE8 /* carpos_0.png */,
+				454AFCF11ED520B80055CEE8 /* carpos_1.png */,
+				454AFCF21ED520B80055CEE8 /* carpos_10.png */,
+				454AFCF31ED520B80055CEE8 /* carpos_11.png */,
+				454AFCF51ED520B80055CEE8 /* carpos_2.png */,
+				454AFCF61ED520B80055CEE8 /* carpos_3.png */,
+				454AFCF71ED520B80055CEE8 /* carpos_4.png */,
+				454AFCF81ED520B80055CEE8 /* carpos_5.png */,
+				454AFCF91ED520B80055CEE8 /* carpos_6.png */,
+				454AFCFA1ED520B80055CEE8 /* carpos_7.png */,
+				454AFCFB1ED520B80055CEE8 /* carpos_8.png */,
+				454AFCFC1ED520B80055CEE8 /* carpos_9.png */,
+				454AFCFD1ED520B80055CEE8 /* carpos_empty.png */,
+				45AC5DAD1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg */,
+				45AC5DAB1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		456E964D1E8EAD0000ACD5FC /* PIPS_IOS_API */ = {
+			isa = PBXGroup;
+			children = (
+				C4AC64971EBB78BE00DF0A4D /* stdafx.h */,
+				C4AC64981EBB78BE00DF0A4D /* wl_alg.cpp */,
+				C4AC64991EBB78BE00DF0A4D /* wl_alg.h */,
+				C4AC649A1EBB78BE00DF0A4D /* wl_api.cpp */,
+				C4AC649B1EBB78BE00DF0A4D /* wl_api.h */,
+				C4AC649C1EBB78BE00DF0A4D /* wl_config.cpp */,
+				C4AC649D1EBB78BE00DF0A4D /* wl_config.h */,
+				C4AC649E1EBB78BE00DF0A4D /* wl_ue.cpp */,
+				C4AC649F1EBB78BE00DF0A4D /* wl_ue.h */,
+				456E964E1E8EAD0000ACD5FC /* module.map */,
+				456E964F1E8EAD0000ACD5FC /* PIPS_IOS_API.c */,
+				456E96501E8EAD0000ACD5FC /* PIPS_IOS_API.h */,
+			);
+			path = PIPS_IOS_API;
+			sourceTree = "<group>";
+		};
+		4AA1DB611C5142BB0053CD71 = {
+			isa = PBXGroup;
+			children = (
+				909F27EE1F075925008EA4AF /* includes */,
+				454AFCEF1ED520B80055CEE8 /* images */,
+				4AA1DB811C51441F0053CD71 /* CoreBluetooth.framework */,
+				4AA1DB6C1C5142BB0053CD71 /* PIP_IOS */,
+			);
+			sourceTree = "<group>";
+		};
+		4AA1DB6B1C5142BB0053CD71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4AA1DB6A1C5142BB0053CD71 /* PIP_IOS.app */,
+			);
+			name = Products;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4AA1DB6C1C5142BB0053CD71 /* PIP_IOS */ = {
+			isa = PBXGroup;
+			children = (
+				456E964D1E8EAD0000ACD5FC /* PIPS_IOS_API */,
+				4AA1DB6D1C5142BB0053CD71 /* AppDelegate.swift */,
+				4AA1DB6B1C5142BB0053CD71 /* Products */,
+				4AA1DB7F1C5143690053CD71 /* PeripheralViewController.swift */,
+				4A9A21601D3214D800C6443F /* DeviceTableViewCell.swift */,
+				4A9B031E1D35B1D900FA3D0F /* BluetoothColorsExtension.swift */,
+				4AA1DB711C5142BB0053CD71 /* Main.storyboard */,
+				45CE01711ED504440090A6EE /* CarHomeViewController.swift */,
+				4AA1DB741C5142BC0053CD71 /* Assets.xcassets */,
+				4AA1DB761C5142BC0053CD71 /* LaunchScreen.storyboard */,
+				4AA1DB791C5142BC0053CD71 /* Info.plist */,
+				4A9B031C1D3524F300FA3D0F /* PulseAnimationExtension.swift */,
+				4A9B03401D3C746F00FA3D0F /* ScanButton.swift */,
+			);
+			name = PIP_IOS;
+			path = PIPS_IOS;
+			sourceTree = "<group>";
+		};
+		909F27EE1F075925008EA4AF /* includes */ = {
+			isa = PBXGroup;
+			children = (
+				909F27ED1F075920008EA4AF /* PIPS_static_lib.h */,
+			);
+			name = includes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4AA1DB691C5142BB0053CD71 /* PIP_IOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4AA1DB7C1C5142BC0053CD71 /* Build configuration list for PBXNativeTarget "PIP_IOS" */;
+			buildPhases = (
+				4AA1DB661C5142BB0053CD71 /* Sources */,
+				4AA1DB671C5142BB0053CD71 /* Frameworks */,
+				4AA1DB681C5142BB0053CD71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PIP_IOS;
+			productName = BLEScanner;
+			productReference = 4AA1DB6A1C5142BB0053CD71 /* PIP_IOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4AA1DB621C5142BB0053CD71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = GG;
+				TargetAttributes = {
+					4AA1DB691C5142BB0053CD71 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = XMNVQ88NR5;
+						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 4AA1DB651C5142BB0053CD71 /* Build configuration list for PBXProject "PIP_IOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4AA1DB611C5142BB0053CD71;
+			productRefGroup = 4AA1DB6B1C5142BB0053CD71 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4AA1DB691C5142BB0053CD71 /* PIP_IOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4AA1DB681C5142BB0053CD71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				454AFD001ED520B80055CEE8 /* carpos_10.png in Resources */,
+				454AFD111ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg in Resources */,
+				454AFD041ED520B80055CEE8 /* carpos_3.png in Resources */,
+				454AFD011ED520B80055CEE8 /* carpos_11.png in Resources */,
+				4AA1DB781C5142BC0053CD71 /* LaunchScreen.storyboard in Resources */,
+				4AA1DB751C5142BC0053CD71 /* Assets.xcassets in Resources */,
+				454AFD0B1ED520B80055CEE8 /* carpos_empty.png in Resources */,
+				45AC5DAE1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg in Resources */,
+				454AFD0A1ED520B80055CEE8 /* carpos_9.png in Resources */,
+				45AC5DAC1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg in Resources */,
+				454AFCFE1ED520B80055CEE8 /* carpos_0.png in Resources */,
+				4AA1DB731C5142BB0053CD71 /* Main.storyboard in Resources */,
+				454AFD071ED520B80055CEE8 /* carpos_6.png in Resources */,
+				454AFD031ED520B80055CEE8 /* carpos_2.png in Resources */,
+				454AFD061ED520B80055CEE8 /* carpos_5.png in Resources */,
+				454AFD0D1ED521DE0055CEE8 /* carpos_12.png in Resources */,
+				454AFD081ED520B80055CEE8 /* carpos_7.png in Resources */,
+				454AFD051ED520B80055CEE8 /* carpos_4.png in Resources */,
+				454AFD091ED520B80055CEE8 /* carpos_8.png in Resources */,
+				454AFCFF1ED520B80055CEE8 /* carpos_1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4AA1DB661C5142BB0053CD71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4AC64A31EBB78BE00DF0A4D /* wl_ue.cpp in Sources */,
+				4AA1DB801C5143690053CD71 /* PeripheralViewController.swift in Sources */,
+				C4AC64A01EBB78BE00DF0A4D /* wl_alg.cpp in Sources */,
+				4A9B031F1D35B1D900FA3D0F /* BluetoothColorsExtension.swift in Sources */,
+				45CE01721ED504440090A6EE /* CarHomeViewController.swift in Sources */,
+				C4AC64A11EBB78BE00DF0A4D /* wl_api.cpp in Sources */,
+				C4AC64A21EBB78BE00DF0A4D /* wl_config.cpp in Sources */,
+				4A9A21611D3214D800C6443F /* DeviceTableViewCell.swift in Sources */,
+				4A9B031D1D3524F300FA3D0F /* PulseAnimationExtension.swift in Sources */,
+				4A9B03411D3C746F00FA3D0F /* ScanButton.swift in Sources */,
+				4AA1DB6E1C5142BB0053CD71 /* AppDelegate.swift in Sources */,
+				456E96511E8EAD0000ACD5FC /* PIPS_IOS_API.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4AA1DB711C5142BB0053CD71 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4AA1DB721C5142BB0053CD71 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4AA1DB761C5142BC0053CD71 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4AA1DB771C5142BC0053CD71 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4AA1DB7A1C5142BC0053CD71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4AA1DB7B1C5142BC0053CD71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4AA1DB7D1C5142BC0053CD71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				DEVELOPMENT_TEAM = 3H2U3RQ7U4;
+				INFOPLIST_FILE = PIPS_IOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.pips.jw;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/**";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4AA1DB7E1C5142BC0053CD71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3H2U3RQ7U4;
+				INFOPLIST_FILE = PIPS_IOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.pips.jw;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/**";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4AA1DB651C5142BB0053CD71 /* Build configuration list for PBXProject "PIP_IOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4AA1DB7A1C5142BC0053CD71 /* Debug */,
+				4AA1DB7B1C5142BC0053CD71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4AA1DB7C1C5142BC0053CD71 /* Build configuration list for PBXNativeTarget "PIP_IOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4AA1DB7D1C5142BC0053CD71 /* Debug */,
+				4AA1DB7E1C5142BC0053CD71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4AA1DB621C5142BB0053CD71 /* Project object */;
+}
