@@ -1,0 +1,4 @@
+module Libpipsapi [system] {
+  header "wl_api.h"
+  export *
+}
