@@ -70,6 +70,6 @@ int PIPS_rx_init(void);
 int PIPS_rx_adv_data(const char *adv_data, int len, int rssi, double time_ms, const char *msg, pips_api_out *api_out);
 int PIPS_api_cmd(pips_api_cmd *api_cmd);
 
-int Test(int a);
+int Test(int a){return 0;};
 
 #endif

@@ -22,24 +22,23 @@
 		454AFD0B1ED520B80055CEE8 /* carpos_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFCFD1ED520B80055CEE8 /* carpos_empty.png */; };
 		454AFD0D1ED521DE0055CEE8 /* carpos_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 454AFD0C1ED521DE0055CEE8 /* carpos_12.png */; };
 		454AFD111ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 454AFD101ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg */; };
-		456E96511E8EAD0000ACD5FC /* PIPS_IOS_API.c in Sources */ = {isa = PBXBuildFile; fileRef = 456E964F1E8EAD0000ACD5FC /* PIPS_IOS_API.c */; };
-		45AC5DAC1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 45AC5DAB1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */; };
-		45AC5DAE1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 45AC5DAD1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg */; };
-		45CE01721ED504440090A6EE /* CarHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45CE01711ED504440090A6EE /* CarHomeViewController.swift */; };
-		4A9A21611D3214D800C6443F /* DeviceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9A21601D3214D800C6443F /* DeviceTableViewCell.swift */; };
-		4A9B031D1D3524F300FA3D0F /* PulseAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B031C1D3524F300FA3D0F /* PulseAnimationExtension.swift */; };
-		4A9B031F1D35B1D900FA3D0F /* BluetoothColorsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B031E1D35B1D900FA3D0F /* BluetoothColorsExtension.swift */; };
-		4A9B03411D3C746F00FA3D0F /* ScanButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B03401D3C746F00FA3D0F /* ScanButton.swift */; };
-		4AA1DB6E1C5142BB0053CD71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA1DB6D1C5142BB0053CD71 /* AppDelegate.swift */; };
 		4AA1DB731C5142BB0053CD71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1DB711C5142BB0053CD71 /* Main.storyboard */; };
 		4AA1DB751C5142BC0053CD71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1DB741C5142BC0053CD71 /* Assets.xcassets */; };
 		4AA1DB781C5142BC0053CD71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1DB761C5142BC0053CD71 /* LaunchScreen.storyboard */; };
-		4AA1DB801C5143690053CD71 /* PeripheralViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA1DB7F1C5143690053CD71 /* PeripheralViewController.swift */; };
 		4AA1DB821C51441F0053CD71 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AA1DB811C51441F0053CD71 /* CoreBluetooth.framework */; };
-		C4AC64A01EBB78BE00DF0A4D /* wl_alg.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC64981EBB78BE00DF0A4D /* wl_alg.cpp */; };
-		C4AC64A11EBB78BE00DF0A4D /* wl_api.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC649A1EBB78BE00DF0A4D /* wl_api.cpp */; };
-		C4AC64A21EBB78BE00DF0A4D /* wl_config.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC649C1EBB78BE00DF0A4D /* wl_config.cpp */; };
-		C4AC64A31EBB78BE00DF0A4D /* wl_ue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4AC649E1EBB78BE00DF0A4D /* wl_ue.cpp */; };
+		902BD6C71F08AE5800994A5C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 902BD6C61F08AE5800994A5C /* Info.plist */; };
+		902BD6CA1F08AEF800994A5C /* libPIPS_static_lib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 902BD6C91F08AEF800994A5C /* libPIPS_static_lib.a */; };
+		9098AF391F08A328006C7FAA /* BluetoothColorsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF331F08A328006C7FAA /* BluetoothColorsExtension.swift */; };
+		9098AF3A1F08A328006C7FAA /* CarHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF341F08A328006C7FAA /* CarHomeViewController.swift */; };
+		9098AF3B1F08A328006C7FAA /* DeviceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF351F08A328006C7FAA /* DeviceTableViewCell.swift */; };
+		9098AF3D1F08A328006C7FAA /* PeripheralConnectedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF371F08A328006C7FAA /* PeripheralConnectedViewController.swift */; };
+		9098AF3E1F08A328006C7FAA /* PeripheralViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF381F08A328006C7FAA /* PeripheralViewController.swift */; };
+		9098AF431F08A33A006C7FAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF3F1F08A33A006C7FAA /* AppDelegate.swift */; };
+		9098AF441F08A33A006C7FAA /* PulseAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF401F08A33A006C7FAA /* PulseAnimationExtension.swift */; };
+		9098AF451F08A33A006C7FAA /* ScanButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF411F08A33A006C7FAA /* ScanButton.swift */; };
+		9098AF461F08A33A006C7FAA /* ServiceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9098AF421F08A33A006C7FAA /* ServiceTableViewCell.swift */; };
+		9098AF611F08A6A3006C7FAA /* MixC.Shopping.Mall.original.4922.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9098AF5F1F08A6A3006C7FAA /* MixC.Shopping.Mall.original.4922.jpg */; };
+		9098AF621F08A6A3006C7FAA /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9098AF601F08A6A3006C7FAA /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,34 +57,26 @@
 		454AFCFD1ED520B80055CEE8 /* carpos_empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_empty.png; sourceTree = "<group>"; };
 		454AFD0C1ED521DE0055CEE8 /* carpos_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carpos_12.png; sourceTree = "<group>"; };
 		454AFD101ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pacific-Coast-Hwy-cover.jpg"; sourceTree = "<group>"; };
-		456E964E1E8EAD0000ACD5FC /* module.map */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = module.map; sourceTree = "<group>"; };
-		456E964F1E8EAD0000ACD5FC /* PIPS_IOS_API.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PIPS_IOS_API.c; sourceTree = "<group>"; };
-		456E96501E8EAD0000ACD5FC /* PIPS_IOS_API.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIPS_IOS_API.h; sourceTree = "<group>"; };
-		45AC5DAB1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg"; path = "../stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg"; sourceTree = "<group>"; };
-		45AC5DAD1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MixC.Shopping.Mall.original.4922.jpg; path = ../MixC.Shopping.Mall.original.4922.jpg; sourceTree = "<group>"; };
-		45CE01711ED504440090A6EE /* CarHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarHomeViewController.swift; sourceTree = "<group>"; };
-		4A9A21601D3214D800C6443F /* DeviceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceTableViewCell.swift; sourceTree = "<group>"; };
-		4A9B031C1D3524F300FA3D0F /* PulseAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PulseAnimationExtension.swift; sourceTree = "<group>"; };
-		4A9B031E1D35B1D900FA3D0F /* BluetoothColorsExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BluetoothColorsExtension.swift; sourceTree = "<group>"; };
-		4A9B03401D3C746F00FA3D0F /* ScanButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScanButton.swift; sourceTree = "<group>"; };
 		4AA1DB6A1C5142BB0053CD71 /* PIP_IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PIP_IOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4AA1DB6D1C5142BB0053CD71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4AA1DB721C5142BB0053CD71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4AA1DB741C5142BC0053CD71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AA1DB771C5142BC0053CD71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4AA1DB791C5142BC0053CD71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4AA1DB7F1C5143690053CD71 /* PeripheralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeripheralViewController.swift; sourceTree = "<group>"; };
 		4AA1DB811C51441F0053CD71 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
-		909F27ED1F075920008EA4AF /* PIPS_static_lib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PIPS_static_lib.h; path = include/PIPS_static_lib.h; sourceTree = "<group>"; };
-		C4AC64971EBB78BE00DF0A4D /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = "<group>"; };
-		C4AC64981EBB78BE00DF0A4D /* wl_alg.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_alg.cpp; sourceTree = "<group>"; };
-		C4AC64991EBB78BE00DF0A4D /* wl_alg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_alg.h; sourceTree = "<group>"; };
-		C4AC649A1EBB78BE00DF0A4D /* wl_api.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_api.cpp; sourceTree = "<group>"; };
-		C4AC649B1EBB78BE00DF0A4D /* wl_api.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_api.h; sourceTree = "<group>"; };
-		C4AC649C1EBB78BE00DF0A4D /* wl_config.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_config.cpp; sourceTree = "<group>"; };
-		C4AC649D1EBB78BE00DF0A4D /* wl_config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_config.h; sourceTree = "<group>"; };
-		C4AC649E1EBB78BE00DF0A4D /* wl_ue.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = wl_ue.cpp; sourceTree = "<group>"; };
-		C4AC649F1EBB78BE00DF0A4D /* wl_ue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wl_ue.h; sourceTree = "<group>"; };
+		902BD6C61F08AE5800994A5C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		902BD6C91F08AEF800994A5C /* libPIPS_static_lib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPIPS_static_lib.a; path = include/libPIPS_static_lib.a; sourceTree = "<group>"; };
+		9098AF331F08A328006C7FAA /* BluetoothColorsExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BluetoothColorsExtension.swift; path = interface/BluetoothColorsExtension.swift; sourceTree = SOURCE_ROOT; };
+		9098AF341F08A328006C7FAA /* CarHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CarHomeViewController.swift; path = interface/CarHomeViewController.swift; sourceTree = SOURCE_ROOT; };
+		9098AF351F08A328006C7FAA /* DeviceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DeviceTableViewCell.swift; path = interface/DeviceTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		9098AF371F08A328006C7FAA /* PeripheralConnectedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralConnectedViewController.swift; path = interface/PeripheralConnectedViewController.swift; sourceTree = SOURCE_ROOT; };
+		9098AF381F08A328006C7FAA /* PeripheralViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PeripheralViewController.swift; path = interface/PeripheralViewController.swift; sourceTree = SOURCE_ROOT; };
+		9098AF3F1F08A33A006C7FAA /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = interface/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
+		9098AF401F08A33A006C7FAA /* PulseAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PulseAnimationExtension.swift; path = interface/PulseAnimationExtension.swift; sourceTree = SOURCE_ROOT; };
+		9098AF411F08A33A006C7FAA /* ScanButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScanButton.swift; path = interface/ScanButton.swift; sourceTree = SOURCE_ROOT; };
+		9098AF421F08A33A006C7FAA /* ServiceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ServiceTableViewCell.swift; path = interface/ServiceTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		9098AF471F08A3C5006C7FAA /* module.map */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; name = module.map; path = include/module.map; sourceTree = "<group>"; };
+		9098AF5C1F08A550006C7FAA /* wl_api.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = wl_api.h; path = include/wl_api.h; sourceTree = "<group>"; };
+		9098AF5F1F08A6A3006C7FAA /* MixC.Shopping.Mall.original.4922.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MixC.Shopping.Mall.original.4922.jpg; sourceTree = "<group>"; };
+		9098AF601F08A6A3006C7FAA /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +85,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AA1DB821C51441F0053CD71 /* CoreBluetooth.framework in Frameworks */,
+				902BD6CA1F08AEF800994A5C /* libPIPS_static_lib.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,6 +95,8 @@
 		454AFCEF1ED520B80055CEE8 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				9098AF5F1F08A6A3006C7FAA /* MixC.Shopping.Mall.original.4922.jpg */,
+				9098AF601F08A6A3006C7FAA /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */,
 				454AFD101ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg */,
 				454AFD0C1ED521DE0055CEE8 /* carpos_12.png */,
 				454AFCF01ED520B80055CEE8 /* carpos_0.png */,
@@ -118,35 +112,14 @@
 				454AFCFB1ED520B80055CEE8 /* carpos_8.png */,
 				454AFCFC1ED520B80055CEE8 /* carpos_9.png */,
 				454AFCFD1ED520B80055CEE8 /* carpos_empty.png */,
-				45AC5DAD1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg */,
-				45AC5DAB1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg */,
 			);
 			path = images;
-			sourceTree = "<group>";
-		};
-		456E964D1E8EAD0000ACD5FC /* PIPS_IOS_API */ = {
-			isa = PBXGroup;
-			children = (
-				C4AC64971EBB78BE00DF0A4D /* stdafx.h */,
-				C4AC64981EBB78BE00DF0A4D /* wl_alg.cpp */,
-				C4AC64991EBB78BE00DF0A4D /* wl_alg.h */,
-				C4AC649A1EBB78BE00DF0A4D /* wl_api.cpp */,
-				C4AC649B1EBB78BE00DF0A4D /* wl_api.h */,
-				C4AC649C1EBB78BE00DF0A4D /* wl_config.cpp */,
-				C4AC649D1EBB78BE00DF0A4D /* wl_config.h */,
-				C4AC649E1EBB78BE00DF0A4D /* wl_ue.cpp */,
-				C4AC649F1EBB78BE00DF0A4D /* wl_ue.h */,
-				456E964E1E8EAD0000ACD5FC /* module.map */,
-				456E964F1E8EAD0000ACD5FC /* PIPS_IOS_API.c */,
-				456E96501E8EAD0000ACD5FC /* PIPS_IOS_API.h */,
-			);
-			path = PIPS_IOS_API;
 			sourceTree = "<group>";
 		};
 		4AA1DB611C5142BB0053CD71 = {
 			isa = PBXGroup;
 			children = (
-				909F27EE1F075925008EA4AF /* includes */,
+				909F27EE1F075925008EA4AF /* include */,
 				454AFCEF1ED520B80055CEE8 /* images */,
 				4AA1DB811C51441F0053CD71 /* CoreBluetooth.framework */,
 				4AA1DB6C1C5142BB0053CD71 /* PIP_IOS */,
@@ -165,30 +138,41 @@
 		4AA1DB6C1C5142BB0053CD71 /* PIP_IOS */ = {
 			isa = PBXGroup;
 			children = (
-				456E964D1E8EAD0000ACD5FC /* PIPS_IOS_API */,
-				4AA1DB6D1C5142BB0053CD71 /* AppDelegate.swift */,
+				902BD6C61F08AE5800994A5C /* Info.plist */,
+				9098AF321F08A30E006C7FAA /* interface */,
 				4AA1DB6B1C5142BB0053CD71 /* Products */,
-				4AA1DB7F1C5143690053CD71 /* PeripheralViewController.swift */,
-				4A9A21601D3214D800C6443F /* DeviceTableViewCell.swift */,
-				4A9B031E1D35B1D900FA3D0F /* BluetoothColorsExtension.swift */,
 				4AA1DB711C5142BB0053CD71 /* Main.storyboard */,
-				45CE01711ED504440090A6EE /* CarHomeViewController.swift */,
 				4AA1DB741C5142BC0053CD71 /* Assets.xcassets */,
 				4AA1DB761C5142BC0053CD71 /* LaunchScreen.storyboard */,
-				4AA1DB791C5142BC0053CD71 /* Info.plist */,
-				4A9B031C1D3524F300FA3D0F /* PulseAnimationExtension.swift */,
-				4A9B03401D3C746F00FA3D0F /* ScanButton.swift */,
 			);
 			name = PIP_IOS;
 			path = PIPS_IOS;
 			sourceTree = "<group>";
 		};
-		909F27EE1F075925008EA4AF /* includes */ = {
+		9098AF321F08A30E006C7FAA /* interface */ = {
 			isa = PBXGroup;
 			children = (
-				909F27ED1F075920008EA4AF /* PIPS_static_lib.h */,
+				9098AF3F1F08A33A006C7FAA /* AppDelegate.swift */,
+				9098AF401F08A33A006C7FAA /* PulseAnimationExtension.swift */,
+				9098AF411F08A33A006C7FAA /* ScanButton.swift */,
+				9098AF421F08A33A006C7FAA /* ServiceTableViewCell.swift */,
+				9098AF331F08A328006C7FAA /* BluetoothColorsExtension.swift */,
+				9098AF341F08A328006C7FAA /* CarHomeViewController.swift */,
+				9098AF351F08A328006C7FAA /* DeviceTableViewCell.swift */,
+				9098AF371F08A328006C7FAA /* PeripheralConnectedViewController.swift */,
+				9098AF381F08A328006C7FAA /* PeripheralViewController.swift */,
 			);
-			name = includes;
+			name = interface;
+			sourceTree = "<group>";
+		};
+		909F27EE1F075925008EA4AF /* include */ = {
+			isa = PBXGroup;
+			children = (
+				902BD6C91F08AEF800994A5C /* libPIPS_static_lib.a */,
+				9098AF5C1F08A550006C7FAA /* wl_api.h */,
+				9098AF471F08A3C5006C7FAA /* module.map */,
+			);
+			name = include;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -223,8 +207,8 @@
 				TargetAttributes = {
 					4AA1DB691C5142BB0053CD71 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = XMNVQ88NR5;
-						LastSwiftMigration = 0800;
+						DevelopmentTeam = 3H2U3RQ7U4;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -255,23 +239,24 @@
 				454AFD001ED520B80055CEE8 /* carpos_10.png in Resources */,
 				454AFD111ED524850055CEE8 /* Pacific-Coast-Hwy-cover.jpg in Resources */,
 				454AFD041ED520B80055CEE8 /* carpos_3.png in Resources */,
+				9098AF621F08A6A3006C7FAA /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg in Resources */,
 				454AFD011ED520B80055CEE8 /* carpos_11.png in Resources */,
 				4AA1DB781C5142BC0053CD71 /* LaunchScreen.storyboard in Resources */,
 				4AA1DB751C5142BC0053CD71 /* Assets.xcassets in Resources */,
 				454AFD0B1ED520B80055CEE8 /* carpos_empty.png in Resources */,
-				45AC5DAE1E37098300151076 /* MixC.Shopping.Mall.original.4922.jpg in Resources */,
 				454AFD0A1ED520B80055CEE8 /* carpos_9.png in Resources */,
-				45AC5DAC1E37092700151076 /* stock-photo-istanbul-june-cevahir-shopping-center-modern-shopping-mall-located-in-mecidiyekoy-istanbul-105338714.jpg in Resources */,
 				454AFCFE1ED520B80055CEE8 /* carpos_0.png in Resources */,
 				4AA1DB731C5142BB0053CD71 /* Main.storyboard in Resources */,
 				454AFD071ED520B80055CEE8 /* carpos_6.png in Resources */,
 				454AFD031ED520B80055CEE8 /* carpos_2.png in Resources */,
 				454AFD061ED520B80055CEE8 /* carpos_5.png in Resources */,
 				454AFD0D1ED521DE0055CEE8 /* carpos_12.png in Resources */,
+				9098AF611F08A6A3006C7FAA /* MixC.Shopping.Mall.original.4922.jpg in Resources */,
 				454AFD081ED520B80055CEE8 /* carpos_7.png in Resources */,
 				454AFD051ED520B80055CEE8 /* carpos_4.png in Resources */,
 				454AFD091ED520B80055CEE8 /* carpos_8.png in Resources */,
 				454AFCFF1ED520B80055CEE8 /* carpos_1.png in Resources */,
+				902BD6C71F08AE5800994A5C /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,18 +267,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4AC64A31EBB78BE00DF0A4D /* wl_ue.cpp in Sources */,
-				4AA1DB801C5143690053CD71 /* PeripheralViewController.swift in Sources */,
-				C4AC64A01EBB78BE00DF0A4D /* wl_alg.cpp in Sources */,
-				4A9B031F1D35B1D900FA3D0F /* BluetoothColorsExtension.swift in Sources */,
-				45CE01721ED504440090A6EE /* CarHomeViewController.swift in Sources */,
-				C4AC64A11EBB78BE00DF0A4D /* wl_api.cpp in Sources */,
-				C4AC64A21EBB78BE00DF0A4D /* wl_config.cpp in Sources */,
-				4A9A21611D3214D800C6443F /* DeviceTableViewCell.swift in Sources */,
-				4A9B031D1D3524F300FA3D0F /* PulseAnimationExtension.swift in Sources */,
-				4A9B03411D3C746F00FA3D0F /* ScanButton.swift in Sources */,
-				4AA1DB6E1C5142BB0053CD71 /* AppDelegate.swift in Sources */,
-				456E96511E8EAD0000ACD5FC /* PIPS_IOS_API.c in Sources */,
+				9098AF451F08A33A006C7FAA /* ScanButton.swift in Sources */,
+				9098AF3D1F08A328006C7FAA /* PeripheralConnectedViewController.swift in Sources */,
+				9098AF3E1F08A328006C7FAA /* PeripheralViewController.swift in Sources */,
+				9098AF3A1F08A328006C7FAA /* CarHomeViewController.swift in Sources */,
+				9098AF391F08A328006C7FAA /* BluetoothColorsExtension.swift in Sources */,
+				9098AF461F08A33A006C7FAA /* ServiceTableViewCell.swift in Sources */,
+				9098AF431F08A33A006C7FAA /* AppDelegate.swift in Sources */,
+				9098AF3B1F08A328006C7FAA /* DeviceTableViewCell.swift in Sources */,
+				9098AF441F08A33A006C7FAA /* PulseAnimationExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,17 +391,25 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DEVELOPMENT_TEAM = 3H2U3RQ7U4;
 				INFOPLIST_FILE = PIPS_IOS/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/include",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pips.jw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/**";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -428,17 +418,24 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3H2U3RQ7U4;
 				INFOPLIST_FILE = PIPS_IOS/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/include",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pips.jw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/**";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;

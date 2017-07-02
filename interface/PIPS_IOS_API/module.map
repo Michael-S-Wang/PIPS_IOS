@@ -1,5 +1,0 @@
-module Libpipsapi [system] {
-  header "PIPS_IOS_API.h"
-  header "wl_api.h"
-  export *
-}
